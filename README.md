@@ -1,3 +1,3 @@
 # ReporterEarthquakes
 Page essai ajout
-modification en ligne
+modification en lignee
