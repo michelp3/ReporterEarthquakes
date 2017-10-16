@@ -12,42 +12,42 @@ FEATURES
 offers a unique panorama on earthquakes around the world or allows quick search
 Intuitive user interface with timeline, map and detail views
  
-> Color-coded by magnitude, continent.
-> Map view for each event: 
+- Color-coded by magnitude, continent.
+- Map view for each event: 
        ◊ details: location, latitude, …
        ◊ new location Yellow Pin: long press (0.5 sec) on the map: see ℹ️
              - calculate the distance between the earthquake and any part of the globe
              - propose an itinerary 🚕 or Direct line ✈️
        ◊ link to quake details on USGS website
-> Search country, state, magnitude, … sorted by continent
-> Animation: reporter earthquakes a risk business
-> Social media integration - share via: message, email, Facebook, … send screenshots to your friends
+- Search country, state, magnitude, … sorted by continent
+- Animation: reporter earthquakes a risk business
+- Social media integration - share via: message, email, Facebook, … send screenshots to your friends
 
 
 🔴 General map
 
 Color coded pins to see at a glance sorted earthquakes
 
-> Details for each event
-> Pinch to zoom / drag to pan
-> Link to quake details on USGS website
-> Standard, satellite, hybrid imagery
+- Details for each event
+- Pinch to zoom / drag to pan
+- Link to quake details on USGS website
+- Standard, satellite, hybrid imagery
 
 🔴 Update: 
 
-> Animation: reporter earthquakes present 24 hours a day
+- Animation: reporter earthquakes present 24 hours a day
 
 🔴 Settings:
 
-> Automatic updating:
+- Automatic updating:
           ◊ notifications
           ◊ refresh frequency
-> Filter by magntitude, continent
+- Filter by magntitude, continent
 
 🔴 Contacts:
 
-> App  Store evaluation ❤︎ : don’t forget !
-> Contact me: post your own comments, requests for information, …
+- App  Store evaluation ❤︎ : don’t forget !
+- Contact me: post your own comments, requests for information, …
            
 
 
