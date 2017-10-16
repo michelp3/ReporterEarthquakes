@@ -20,8 +20,7 @@ Intuitive user interface with timeline, map and detail views
        🌏 new location Yellow Pin: long press (0.5 sec) on the map: see ℹ️
        
              - calculate the distance between the earthquake and any part of the globe
-             
-             - propose an itinerary 🚕 or Direct line ✈️
+              - propose an itinerary 🚕 or Direct line ✈️
              
        🌐 link to quake details on USGS website
        
