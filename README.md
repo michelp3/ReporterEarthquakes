@@ -17,7 +17,7 @@ Intuitive user interface with timeline, map and detail views
 
        👓 details: location, latitude, ...
        
-       🌏 new location Yellow Pin: long press (0.5 sec) on the map: see ℹ️
+       🌏 new location Yellow Pin: long press (0.5 sec) on the map: see 
        
              - calculate the distance between the earthquake and any part of the globe
               - propose an itinerary 🚕 or Direct line ✈️
