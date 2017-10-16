@@ -10,6 +10,7 @@ FEATURES
 🔴 Quakes list : last 7 days
 
 offers a unique panorama on earthquakes around the world or allows quick search
+
 Intuitive user interface with timeline, map and detail views
  
 - Color-coded by magnitude, continent.
