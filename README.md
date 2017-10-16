@@ -2,7 +2,7 @@
 
 Quick and very easy to use, ReporterEarthQuakes is a app optimized for iPhone.
 Concise and informative, this app is purpose-built and does its job very well. 
-Lists, maps, searchs, data are delivered in real-time to your phone
+Lists, maps, searchs, data are delivered in real-time to your phone.
 Animations will allow you to use ReporterEarthquakes in a good mood
 
 FEATURES
