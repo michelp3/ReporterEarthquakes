@@ -52,7 +52,7 @@ Color coded pins to see at a glance sorted earthquakes
 🔴 Contacts:
 
 - App  Store evaluation ❤︎ : don’t forget !
-- Contact me: post your own comments, requests for information, …
+- Contact me: post your own comments, requests for information,... : pourbaix.michel@skynet.be
            
 
 
