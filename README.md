@@ -13,13 +13,16 @@ offers a unique panorama on earthquakes around the world or allows quick search
 Intuitive user interface with timeline, map and detail views
  
 - Color-coded by magnitude, continent.
-- Map view for each event: 
+- Map view for each event:
+
        ◊ details: location, latitude, …
        
        ◊ new location Yellow Pin: long press (0.5 sec) on the map: see ℹ️
              - calculate the distance between the earthquake and any part of the globe
              - propose an itinerary 🚕 or Direct line ✈️
+             
        ◊ link to quake details on USGS website
+       
 - Search country, state, magnitude, … sorted by continent
 - Animation: reporter earthquakes a risk business
 - Social media integration - share via: message, email, Facebook, … send screenshots to your friends
