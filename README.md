@@ -25,7 +25,7 @@ Intuitive user interface with timeline, map and detail views
        🌐 link to quake details on USGS website
        
 - Search country, state, magnitude, … sorted by continent
-- Animation: reporter earthquakes a risk business
+- 💄 Animation: reporter earthquakes a risk business
 - Social media integration - share via: message, email, Facebook, … send screenshots to your friends
 
 
